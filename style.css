@@ -1,0 +1,11 @@
+body{
+    background-color: aqua;
+    width: 950px;
+    height: 500px;
+}
+
+p{
+    font-family: "sans-serif";
+    color: chartreuse;
+    font-size: 30px;
+}
